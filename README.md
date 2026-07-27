@@ -55,4 +55,4 @@ El equipo utilizará mensajes de commit con el siguiente formato:
 - chore: tareas de configuración
 
 ## Proyecto en capas
-La estructura modular se encuentra ahora consolidada en la carpeta `app/`.
+La estructura modular se encuentra ahora consolidada en la carpeta `app/`. 
